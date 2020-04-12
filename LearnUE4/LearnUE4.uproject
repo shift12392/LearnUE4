@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5FB80774-424B-3E3F-24A0-8FB4B40E8629}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LearnUE4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
