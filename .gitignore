@@ -350,3 +350,6 @@ MigrationBackup/
 .ionide/
 /LearnUE4/LearnUE4.sln
 /LearnUE4/Intermediate
+/LearnUE4/Binaries/Win64
+/LearnUE4/DerivedDataCache
+/LearnUE4/Saved
